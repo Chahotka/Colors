@@ -1,0 +1,24 @@
+@import 'null.scss';
+//===========================================\\
+body {
+    font-family: Arial;
+}
+
+.container {
+    width: 95%;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+}
+
+#button {
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 2px solid #C4BBAF;
+    background-color: #fff;
+    box-shadow: 5px 5px 1px 1px rgba(0, 0, 0, 0.3);
+}
